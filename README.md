@@ -5,7 +5,7 @@ Bem-vindo ao meu GitHub! Sou um entusiasta de tecnologia de 17 anos com uma paix
 
 Sobre Mim
 
-🎓 Educação: Estou cursando [Nome do Curso Técnico ou Ensino Médio Técnico] na [Nome da Instituição].
+🎓 Educação: Estou cursando Ensino Médio Técnico 
 
 💻 Interesses: Desenvolvimento de software, cibersegurança, ciência de dados e inteligência artificial.
 
