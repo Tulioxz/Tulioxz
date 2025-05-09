@@ -5,7 +5,7 @@ Bem-vindo ao meu GitHub! Sou um entusiasta de tecnologia de 17 anos com uma paix
 
 Sobre Mim
 
-🎓 Educação: Estou cursando Ensino Médio Técnico 
+🎓 Educação: Estou cursando Ensino Superior na Faculdade UNIP, Ciências Da Computação.
 
 💻 Interesses: Desenvolvimento de software, cibersegurança, ciência de dados e inteligência artificial.
 
@@ -30,4 +30,4 @@ LinkedIn: [Thulio Lemos](https://www.linkedin.com/in/thulio-castanho-lemos-21343
 
 Email: Thulio.castanho@gmail.com
 
-Obrigado por visitar meu GitHub! Vamos construir algo incrível juntos!
+Obrigado por visitar meu GitHub!
